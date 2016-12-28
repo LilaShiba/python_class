@@ -1,11 +1,14 @@
 import random
 
+# how to make a more simple code?
 player = input("Rock, Paper, Scissors?")
 myLst = ["Rock", "Paper", "Scissors"]
 computer = random.choice(myLst)
-
 computer.lower()
 player.lower()    
+
+
+#nesting intro
 if player == computer:
     print("Tie!")
 elif player == "Rock" or "rock":

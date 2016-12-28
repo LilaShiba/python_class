@@ -1,4 +1,4 @@
-# Miles per gallon brah
+# Miles per gallon 
 print("You so dumb. I tell you how much car uses of the boom boom juice")
 
  # get that input
