@@ -8,7 +8,6 @@ def mult(a, b):
 def main ():
 	a = int(input("what is the first number?"))
 	b = int(input("what is the second number?"))
-	(a * b)
 	mult(a, b)
 
 main()
