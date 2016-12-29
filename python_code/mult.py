@@ -1,7 +1,9 @@
+# http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/functions.html
+
 def mult(a, b):
 	answer = a * b
-	prompt = "The answer of {} and {} is .".format(a, b, mult)
-	print(answer)
+	prompt = "The sum of {} and {} is {}.".format(a, b, answer)
+	print(prompt)
 
 def main ():
 	a = int(input("what is the first number?"))
